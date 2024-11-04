@@ -1,4 +1,4 @@
-<h3 align="center">Your friendly Machine Learning Engineer from Sri Lanka. Spanning across various domains, from developing ML models to deploying scalable solutions using Docker and Quantum Machine Learning</h3>
+<h3 align="center">Your friendly Machine Learning Engineer from Sri Lanka. Spanning across various domains, from developing ML models to deploying scalable solutions using Docker,Quantum Machine Learning and Deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshhhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="nileshhhhhh" /> </p>
 
